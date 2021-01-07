@@ -1,18 +1,64 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+      <v-navigation-drawer width="330px" style="background:rgb(7,15,19);" absolute permanent>
+        <template v-slot:prepend  >
+          <img src="logo.png" height="155px" width="320px" class="pt-5">
+            <div class="text-center grey--text mt-5" >
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+<br><br>
+              <v-btn text class="grey--text">FR</v-btn>/
+              <v-btn text class="grey--text">EN</v-btn>
+<br><br>
+              <v-list dense class="text-center">
+                <v-list-item v-for="item in items" :key="item.title">
+                  <v-list-item-content>
+                    <v-list-item-title class="title grey--text my-5">
+                      {{ item.title }}
+                    </v-list-item-title>
+                  </v-list-item-content>
+                </v-list-item>
+              </v-list>
+<br>
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+              <v-icon x-small class="grey--text">control_camera</v-icon>
+<br><br>
+              <p class="grey--text mt-5 caption">FOLLOW US</p>
+              <img src="footer.png" height="50px" class="mb-5">
+              <p class="grey--text caption mx-7">© 2021, <a href="https://github.com/Abir-Bouhriz"  >BOUHRIZ ABIR</a> </p>
+            </div>
+        </template>
+      </v-navigation-drawer>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+
 
 export default {
   name: 'Home',
-  components: {
-    HelloWorld
-  }
+  data () {
+      return {
+        items: [
+          { title: 'About', },
+          { title: 'Activities', },
+          { title: 'News',  },
+          { title: 'Contact',  },
+        ],
+      }
+    },
 }
 </script>
+
+<style >
+.mt-n2 a{
+  text-decoration: none;
+  color: grey !important;
+}
+.mt-n2  a:hover{
+  color: white !important;
+}
+</style>
