@@ -15,7 +15,7 @@
               <v-list dense class="text-center">
                 <v-list-item two-line v-for="item in items" :key="item.title">
                   <v-list-item-content>
-                    <v-list-item-title class="body-1 grey--text my-4">
+                    <v-list-item-title class="body-1 grey--text my-2">
                       {{ item.title }}
                     </v-list-item-title>
                     <v-list-item-subtitle>
