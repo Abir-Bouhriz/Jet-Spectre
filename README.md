@@ -1,7 +1,7 @@
 # Spectre-Clone
 
 ## Description:
-This is the first home page of my challenge (One week challenge). It is a clone of [SPECTRE](http://spectre-agency.com/) expert in Retail Music Marketing..
+This is the first home page of my challenge (One week challenge), made with [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/). It is a clone of [SPECTRE](http://spectre-agency.com/) expert in Retail Music Marketing..
 
 ## ScreenShots:
 
