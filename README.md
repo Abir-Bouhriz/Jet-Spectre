@@ -1,4 +1,7 @@
-# challenge-1
+# Spectre-Clone
+
+## Description:
+This is the first home page of my challenge (One week challenge). It is a clone of [SPECTRE](http://spectre-agency.com/) expert in Retail Music Marketing..
 
 ## Project setup
 ```
