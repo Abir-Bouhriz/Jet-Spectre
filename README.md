@@ -5,7 +5,7 @@ This is the first home page of my challenge (One week challenge). It is a clone 
 
 ## ScreenShots:
 
-<img src="screenshots/1.jpeg" />
+<img src="screenshots/1.png" />
 
 ## Challenges:
 * [Day 1: Spectre-Clone](https://github.com/Abir-Bouhriz/Spectre-Clone)
