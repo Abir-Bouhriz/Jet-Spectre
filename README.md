@@ -3,6 +3,19 @@
 ## Description:
 This is the first home page of my challenge (One week challenge). It is a clone of [SPECTRE](http://spectre-agency.com/) expert in Retail Music Marketing..
 
+## ScreenShots:
+
+<img src="screenshots/1.jpeg" />
+
+## Challenges:
+* [Day 1: Spectre-Clone](https://github.com/Abir-Bouhriz/Spectre-Clone)
+
+## Tools & languages:
+* Android studio (IDE)
+* Dart (logic)
+* Flutter (Mobile UI developement kit)
+
+
 ## Project setup
 ```
 npm install
