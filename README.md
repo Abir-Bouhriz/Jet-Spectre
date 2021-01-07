@@ -11,9 +11,12 @@ This is the first home page of my challenge (One week challenge). It is a clone 
 * [Day 1: Spectre-Clone](https://github.com/Abir-Bouhriz/Spectre-Clone)
 
 ## Tools & languages:
-* Android studio (IDE)
-* Dart (logic)
-* Flutter (Mobile UI developement kit)
+* Vuetify
+* HTML
+* CSS
+* JavaScript
+* Visual Studio Code ( Text editor )
+* paint.net ( image editor)
 
 
 ## Project setup
