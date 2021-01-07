@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-    <v-row>
+    <v-row justify="center" align="center">
       <v-col lg="2">
-      <v-navigation-drawer width="370px" style="background:rgb(7,15,19);" absolute permanent>
+      <v-navigation-drawer width="350px" style="background:rgb(7,15,19);" absolute permanent>
         <template v-slot:prepend  >
-          <img src="logo.png" height="155px" width="320px" class="pt-10 pl-10">
+          <img src="logo.png" height="120px" width="290px" class="pt-7 pl-16">
             <div class="text-center mt-5" >
               <v-icon x-small class="grey--text">control_camera</v-icon>
               <v-icon x-small class="grey--text ml-3">control_camera</v-icon>
