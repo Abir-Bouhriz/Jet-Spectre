@@ -15,7 +15,7 @@
               <v-list dense class="text-center">
                 <v-list-item two-line v-for="item in items" :key="item.title">
                   <v-list-item-content>
-                    <v-list-item-title class="body-1 grey--text my-2">
+                    <v-list-item-title class="body-1 grey--text my-4">
                       {{ item.title }}
                     </v-list-item-title>
                     <v-list-item-subtitle>
@@ -29,7 +29,7 @@
               <v-icon x-small class="grey--text ml-3">control_camera</v-icon>
               <v-icon x-small class="grey--text ml-3">control_camera</v-icon>
 <br><br>
-              <p class="grey--text mt-5 " style="font-size:0.6rem;">FOLLOW US</p>
+              <p class="grey--text mt-15 " style="font-size:0.6rem;">FOLLOW US</p>
               <img src="footer.png" height="50px" class="mb-3">
               <p class="grey--text mx-16" style="font-size:0.6rem;">© 2021, SPECTRE - ALL RIGHTS RESERVED WORDPRESS BY COLORZ </p>
             </div>
