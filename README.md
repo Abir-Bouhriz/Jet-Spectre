@@ -11,7 +11,7 @@ This is my first challenge (One week challenge), made with [Vuetify](https://vue
 <img src="screenshots/1.png" />
 
 ## Challenges:
-* [Day 1: Spectre-Clone](https://github.com/Abir-Bouhriz/Spectre-Clone)
+* [Day 1: Jet-Spectre](https://github.com/Abir-Bouhriz/Spectre-Clone)
 * [Day 2: Vue-Calender](https://github.com/Abir-Bouhriz/Vue-Calender)
 
 ## Tools & languages:
