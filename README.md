@@ -14,7 +14,8 @@ This is the first home page of my challenge (One week challenge), made with [Vue
 * [Day 1: Spectre-Clone](https://github.com/Abir-Bouhriz/Spectre-Clone)
 
 ## Tools & languages:
-* Vuetify
+* Vue.js (front end JavaScript framework)
+* Vuetify (Material Design component framework)
 * HTML
 * CSS
 * JavaScript
