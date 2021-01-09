@@ -4,7 +4,7 @@
 ![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
 
 ## Description:
-This is the first home page of my challenge (One week challenge), made with [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/). It is a clone of [SPECTRE](http://spectre-agency.com/) home page expert in Retail Music Marketing..
+This is my first challenge (One week challenge), made with [Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/). It is a clone of [SPECTRE](http://spectre-agency.com/) home page expert in Retail Music Marketing..
 
 ## ScreenShots:
 
