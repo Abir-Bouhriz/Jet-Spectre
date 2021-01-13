@@ -12,7 +12,8 @@ This is my first challenge (One week challenge), made with [Vuetify](https://vue
 
 ## Challenges:
 * [Day 1: Jet-Spectre](https://github.com/Abir-Bouhriz/Spectre-Clone)
-* [Day 2: Vue-Calender](https://github.com/Abir-Bouhriz/Vue-Calender)
+* [Day 2: Vue-Calendar](https://github.com/Abir-Bouhriz/Vue-Calender)
+* [Day 3: Jet-Login-Form](https://github.com/Abir-Bouhriz/Jet-Login-Form)
 
 ## Tools & languages:
 * Vue.js (front end JavaScript framework)
